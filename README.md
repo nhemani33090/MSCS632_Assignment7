@@ -16,8 +16,6 @@ This project implements a statistics calculator (mean, median, mode) in three di
 │   └── stats.ml
 ├── Python/
 │   └── stats.py
-├── report/
-│   └── statistics_comparison_report.docx
 ```
 
 ## ▶️ How to Run Each Version
